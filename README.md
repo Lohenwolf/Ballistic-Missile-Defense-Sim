@@ -2,7 +2,7 @@
 
 A simple 3D aerospace simulation developed in Python. This code simulates a base strike scenario involving a ballistic missile bus that deploys MIRVs (Multiple Independently-targetable Reentry Vehicles) and a Shoot-Look-Shoot (SLS) defensive salvo of three interceptors.
 
-## 🛠 Features
+## Features
 
 ### Physics Engine
 * **Atmospheric Drag:** Modeling air density ($\rho$) as a function of altitude using an exponential decay model ($1.225 \cdot e^{-h/8500}$).
