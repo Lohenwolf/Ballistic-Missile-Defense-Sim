@@ -1,7 +1,7 @@
 # 3D Ballistic Missile Defense Simulator (SLS-MIRV)
 
 A simple 3D aerospace simulation developed in Python. This code simulates a base strike scenario involving a ballistic missile bus that deploys MIRVs (Multiple Independently-targetable Reentry Vehicles) and a Shoot-Look-Shoot (SLS) defensive salvo of three interceptors.
-
+![Animation](SimGif.gif)
 ## Features
 
 ### Physics Engine
